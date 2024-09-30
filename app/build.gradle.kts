@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "lol.kiyarash.weatherapp"
+    namespace = "com.ravi.weatherapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "lol.kiyarash.weatherapp"
+        applicationId = "com.ravi.weatherapp"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
@@ -33,6 +33,7 @@ android {
         //viewBinding = true
         //noinspection DataBindingWithoutKapt
         dataBinding = true
+        viewBinding = true
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
@@ -55,6 +56,9 @@ dependencies {
     //ktx android
     implementation ("androidx.fragment:fragment-ktx:1.6.1")
     implementation ("androidx.lifecycle:lifecycle-extensions:2.2.0")
+
+    //location
+    implementation ("com.google.android.gms:play-services-location:17.1.0")
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")

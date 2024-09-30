@@ -1,0 +1,435 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:databinding-adapters:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/4e3abdf5ada9c7bf069514833fbc787a/transformed/databinding-adapters-8.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/a662e25ecd09130e80b4874b0d5bd142/transformed/databinding-ktx-8.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/909dd7314fa45a40114df0db2d94c529/transformed/databinding-runtime-8.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/4519f710c6b1afb2b3b52168402d2fa5/transformed/viewbinding-8.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ravimedar/.gradle/caches/transforms-3/c3e80be2c50719d8339b7f86d12166f9/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.navigation:navigation-common:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/5eb0a7f34e7dd693276c314113623db7/transformed/navigation-common-2.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/7d1790ea102fccf0039253c3bddb64e6/transformed/navigation-common-ktx-2.7.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/dc91b589afac29fab690bddcf2253b15/transformed/navigation-runtime-2.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/825b59ffa3d4d5d010f8a228c04b17f8/transformed/navigation-runtime-ktx-2.7.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/4a98d6e9e80a4c08bb4c6f2486765e11/transformed/navigation-fragment-2.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/9bc1c0032cac17996d60f2c74307ba93/transformed/navigation-fragment-ktx-2.7.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/0aa653b118d6b5f2e6acdfd388f3f5ea/transformed/navigation-ui-ktx-2.7.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/88fff0a1f19571ec09fd3eaf798c6a56/transformed/navigation-ui-2.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/ravimedar/.gradle/caches/transforms-3/d4efe7a9a5de54d8723d8d98286a02ec/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/ravimedar/.gradle/caches/transforms-3/7a456a902a9fe9854212e7c8b4d47396/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/92f0cd6f72366a30038257df8b8fe1fb/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/ae9def8bb44f7ba95991f6384203ac97/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/f0756dccfa8214f89507d5f8b455d800/transformed/play-services-location-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ravimedar/.gradle/caches/transforms-3/372de0fb08f52243eaf4266d08dc755b/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/b6f6a97f927e64edde4da33b48bbe777/transformed/play-services-tasks-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/4a33bd9f5d20889fb14dff6a78d9b2d4/transformed/play-services-basement-17.3.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/95e1a978d0fff540b76bac91e6522908/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/1ff69023a4aab56d46ce3a457dd274f5/transformed/fragment-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/2cbecca8edd880af171a51506f6eacd5/transformed/fragment-ktx-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/ravimedar/.gradle/caches/transforms-3/e94bcefd5b8d9ac5a01f25dceac2d75a/transformed/activity-ktx-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.7.2] /Users/ravimedar/.gradle/caches/transforms-3/74f90eee990b6cfc87d11b4dbb1e301e/transformed/activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/a62304588294faa7bfdd5bafb5ce89fe/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/edf49cf7a694c12c3d91715e80eb13b4/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ravimedar/.gradle/caches/transforms-3/8732af973745c0be5ac0b80e0e600f73/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ravimedar/.gradle/caches/transforms-3/6f5e024e128a43c1b460bf880b79a4d4/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/e9ff789cefc45f9647b948b4cd6480b5/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/e9a0cbf254d26515562996b5c4a36ddc/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/23d057ac5263914d57d2b51feb5e81ac/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/10cd5c399aa452d74df90bd8c5903c2c/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/ff7eb6c07d641811b9e3f64a8c5bbd4a/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/8c8ec9d4518eba7e6d8d33bc7a5a5ab3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/cf7e1822cf1d78f91a6c0bf0f7813892/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/414b94b634b7baef8a0c6614e29e0b16/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/5745bd5728f6bbb0df4b25d51b1ae40e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/c4b5f810acb9d2877b97d19d8bd14841/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/d1ccaf5a7a156bc51fb6e557ba8bc5cc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/a39e3693f206836c3a50835bf5ed48ec/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/42cf3c0af9ee025f812fab5c7e9d7036/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/0375a5c9afe650711559a641c3e3c5fc/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/e06fb8ff6239e6fb6a20542c07842623/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/24dad106124c69234094522525b3bd64/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/ravimedar/.gradle/caches/transforms-3/74deab6abeb1509a8cb7ea6f09decad5/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/66c169dcd86c980a8685f3600f8ba5be/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/37b30c534e8e78e1900918f99f579a76/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/107f5d36b72be896aff5da2344e4acb2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/7bda3d69ebbc8a8d4b249ab7aba529c9/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/3761ef4457f03122b3ce2589c1abc11d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/2ed0ebc8a9441a10de209a4bdcd27815/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/2d24bdbbd73cf756b7cd8801a9450c0e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ravimedar/.gradle/caches/transforms-3/48df38ad036833ae904494f2dc8bcdc2/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/d24a09c96c6f61983329cfd34c571dd1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/0e3811e2b38497ed9a5996aeb82d84b6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/5a68f498382e1c857ad6fa2bff5e1561/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/882e10283eff0d203b9446d03328ad31/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/901c67f7cb38390d9234d5f904852849/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/cee5c04d903c17205d9c3821a06e5446/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/0cefd1ea0e4013bf7a3db67062b5ff8e/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:9:5-32:19
+INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ravimedar/.gradle/caches/transforms-3/c3e80be2c50719d8339b7f86d12166f9/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ravimedar/.gradle/caches/transforms-3/c3e80be2c50719d8339b7f86d12166f9/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.material:material:1.9.0] /Users/ravimedar/.gradle/caches/transforms-3/d4efe7a9a5de54d8723d8d98286a02ec/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/ravimedar/.gradle/caches/transforms-3/d4efe7a9a5de54d8723d8d98286a02ec/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/ravimedar/.gradle/caches/transforms-3/7a456a902a9fe9854212e7c8b4d47396/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/ravimedar/.gradle/caches/transforms-3/7a456a902a9fe9854212e7c8b4d47396/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/f0756dccfa8214f89507d5f8b455d800/transformed/play-services-location-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/f0756dccfa8214f89507d5f8b455d800/transformed/play-services-location-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ravimedar/.gradle/caches/transforms-3/372de0fb08f52243eaf4266d08dc755b/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ravimedar/.gradle/caches/transforms-3/372de0fb08f52243eaf4266d08dc755b/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/b6f6a97f927e64edde4da33b48bbe777/transformed/play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/b6f6a97f927e64edde4da33b48bbe777/transformed/play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/4a33bd9f5d20889fb14dff6a78d9b2d4/transformed/play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/4a33bd9f5d20889fb14dff6a78d9b2d4/transformed/play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/2d24bdbbd73cf756b7cd8801a9450c0e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/2d24bdbbd73cf756b7cd8801a9450c0e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/d24a09c96c6f61983329cfd34c571dd1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/d24a09c96c6f61983329cfd34c571dd1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:17:9-48
+	android:dataExtractionRules
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:11:9-65
+activity#com.ravi.weatherapp.view.WeatherActivity
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:19:9-22:55
+	android:exported
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:21:13-37
+	android:theme
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:20:13-49
+activity#com.ravi.weatherapp.view.MainActivity
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:24:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/4e3abdf5ada9c7bf069514833fbc787a/transformed/databinding-adapters-8.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/4e3abdf5ada9c7bf069514833fbc787a/transformed/databinding-adapters-8.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/a662e25ecd09130e80b4874b0d5bd142/transformed/databinding-ktx-8.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/a662e25ecd09130e80b4874b0d5bd142/transformed/databinding-ktx-8.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/909dd7314fa45a40114df0db2d94c529/transformed/databinding-runtime-8.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/909dd7314fa45a40114df0db2d94c529/transformed/databinding-runtime-8.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/4519f710c6b1afb2b3b52168402d2fa5/transformed/viewbinding-8.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.0] /Users/ravimedar/.gradle/caches/transforms-3/4519f710c6b1afb2b3b52168402d2fa5/transformed/viewbinding-8.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ravimedar/.gradle/caches/transforms-3/c3e80be2c50719d8339b7f86d12166f9/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ravimedar/.gradle/caches/transforms-3/c3e80be2c50719d8339b7f86d12166f9/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/5eb0a7f34e7dd693276c314113623db7/transformed/navigation-common-2.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/5eb0a7f34e7dd693276c314113623db7/transformed/navigation-common-2.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/7d1790ea102fccf0039253c3bddb64e6/transformed/navigation-common-ktx-2.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/7d1790ea102fccf0039253c3bddb64e6/transformed/navigation-common-ktx-2.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/dc91b589afac29fab690bddcf2253b15/transformed/navigation-runtime-2.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/dc91b589afac29fab690bddcf2253b15/transformed/navigation-runtime-2.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/825b59ffa3d4d5d010f8a228c04b17f8/transformed/navigation-runtime-ktx-2.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/825b59ffa3d4d5d010f8a228c04b17f8/transformed/navigation-runtime-ktx-2.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/4a98d6e9e80a4c08bb4c6f2486765e11/transformed/navigation-fragment-2.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/4a98d6e9e80a4c08bb4c6f2486765e11/transformed/navigation-fragment-2.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/9bc1c0032cac17996d60f2c74307ba93/transformed/navigation-fragment-ktx-2.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/9bc1c0032cac17996d60f2c74307ba93/transformed/navigation-fragment-ktx-2.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/0aa653b118d6b5f2e6acdfd388f3f5ea/transformed/navigation-ui-ktx-2.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/0aa653b118d6b5f2e6acdfd388f3f5ea/transformed/navigation-ui-ktx-2.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/88fff0a1f19571ec09fd3eaf798c6a56/transformed/navigation-ui-2.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.2] /Users/ravimedar/.gradle/caches/transforms-3/88fff0a1f19571ec09fd3eaf798c6a56/transformed/navigation-ui-2.7.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.9.0] /Users/ravimedar/.gradle/caches/transforms-3/d4efe7a9a5de54d8723d8d98286a02ec/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/ravimedar/.gradle/caches/transforms-3/d4efe7a9a5de54d8723d8d98286a02ec/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/ravimedar/.gradle/caches/transforms-3/7a456a902a9fe9854212e7c8b4d47396/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/ravimedar/.gradle/caches/transforms-3/7a456a902a9fe9854212e7c8b4d47396/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/92f0cd6f72366a30038257df8b8fe1fb/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/92f0cd6f72366a30038257df8b8fe1fb/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/ae9def8bb44f7ba95991f6384203ac97/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/ae9def8bb44f7ba95991f6384203ac97/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/f0756dccfa8214f89507d5f8b455d800/transformed/play-services-location-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/f0756dccfa8214f89507d5f8b455d800/transformed/play-services-location-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ravimedar/.gradle/caches/transforms-3/372de0fb08f52243eaf4266d08dc755b/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ravimedar/.gradle/caches/transforms-3/372de0fb08f52243eaf4266d08dc755b/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/b6f6a97f927e64edde4da33b48bbe777/transformed/play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/ravimedar/.gradle/caches/transforms-3/b6f6a97f927e64edde4da33b48bbe777/transformed/play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/4a33bd9f5d20889fb14dff6a78d9b2d4/transformed/play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/4a33bd9f5d20889fb14dff6a78d9b2d4/transformed/play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/95e1a978d0fff540b76bac91e6522908/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/95e1a978d0fff540b76bac91e6522908/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/1ff69023a4aab56d46ce3a457dd274f5/transformed/fragment-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/1ff69023a4aab56d46ce3a457dd274f5/transformed/fragment-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/2cbecca8edd880af171a51506f6eacd5/transformed/fragment-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] /Users/ravimedar/.gradle/caches/transforms-3/2cbecca8edd880af171a51506f6eacd5/transformed/fragment-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/ravimedar/.gradle/caches/transforms-3/e94bcefd5b8d9ac5a01f25dceac2d75a/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /Users/ravimedar/.gradle/caches/transforms-3/e94bcefd5b8d9ac5a01f25dceac2d75a/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /Users/ravimedar/.gradle/caches/transforms-3/74f90eee990b6cfc87d11b4dbb1e301e/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /Users/ravimedar/.gradle/caches/transforms-3/74f90eee990b6cfc87d11b4dbb1e301e/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/a62304588294faa7bfdd5bafb5ce89fe/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/a62304588294faa7bfdd5bafb5ce89fe/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/edf49cf7a694c12c3d91715e80eb13b4/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/edf49cf7a694c12c3d91715e80eb13b4/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ravimedar/.gradle/caches/transforms-3/8732af973745c0be5ac0b80e0e600f73/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/ravimedar/.gradle/caches/transforms-3/8732af973745c0be5ac0b80e0e600f73/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ravimedar/.gradle/caches/transforms-3/6f5e024e128a43c1b460bf880b79a4d4/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/ravimedar/.gradle/caches/transforms-3/6f5e024e128a43c1b460bf880b79a4d4/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/e9ff789cefc45f9647b948b4cd6480b5/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/e9ff789cefc45f9647b948b4cd6480b5/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/e9a0cbf254d26515562996b5c4a36ddc/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/e9a0cbf254d26515562996b5c4a36ddc/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/23d057ac5263914d57d2b51feb5e81ac/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/23d057ac5263914d57d2b51feb5e81ac/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/10cd5c399aa452d74df90bd8c5903c2c/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/10cd5c399aa452d74df90bd8c5903c2c/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/ff7eb6c07d641811b9e3f64a8c5bbd4a/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/ff7eb6c07d641811b9e3f64a8c5bbd4a/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/8c8ec9d4518eba7e6d8d33bc7a5a5ab3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/8c8ec9d4518eba7e6d8d33bc7a5a5ab3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/cf7e1822cf1d78f91a6c0bf0f7813892/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/cf7e1822cf1d78f91a6c0bf0f7813892/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/414b94b634b7baef8a0c6614e29e0b16/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/414b94b634b7baef8a0c6614e29e0b16/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/5745bd5728f6bbb0df4b25d51b1ae40e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/5745bd5728f6bbb0df4b25d51b1ae40e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/c4b5f810acb9d2877b97d19d8bd14841/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/c4b5f810acb9d2877b97d19d8bd14841/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/d1ccaf5a7a156bc51fb6e557ba8bc5cc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/d1ccaf5a7a156bc51fb6e557ba8bc5cc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/a39e3693f206836c3a50835bf5ed48ec/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/a39e3693f206836c3a50835bf5ed48ec/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/42cf3c0af9ee025f812fab5c7e9d7036/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/42cf3c0af9ee025f812fab5c7e9d7036/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/0375a5c9afe650711559a641c3e3c5fc/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/0375a5c9afe650711559a641c3e3c5fc/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/e06fb8ff6239e6fb6a20542c07842623/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/e06fb8ff6239e6fb6a20542c07842623/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/24dad106124c69234094522525b3bd64/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ravimedar/.gradle/caches/transforms-3/24dad106124c69234094522525b3bd64/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/ravimedar/.gradle/caches/transforms-3/74deab6abeb1509a8cb7ea6f09decad5/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/ravimedar/.gradle/caches/transforms-3/74deab6abeb1509a8cb7ea6f09decad5/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/66c169dcd86c980a8685f3600f8ba5be/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/66c169dcd86c980a8685f3600f8ba5be/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/37b30c534e8e78e1900918f99f579a76/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/37b30c534e8e78e1900918f99f579a76/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/107f5d36b72be896aff5da2344e4acb2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/107f5d36b72be896aff5da2344e4acb2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/7bda3d69ebbc8a8d4b249ab7aba529c9/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/7bda3d69ebbc8a8d4b249ab7aba529c9/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/3761ef4457f03122b3ce2589c1abc11d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/3761ef4457f03122b3ce2589c1abc11d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/2ed0ebc8a9441a10de209a4bdcd27815/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/2ed0ebc8a9441a10de209a4bdcd27815/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/2d24bdbbd73cf756b7cd8801a9450c0e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/2d24bdbbd73cf756b7cd8801a9450c0e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ravimedar/.gradle/caches/transforms-3/48df38ad036833ae904494f2dc8bcdc2/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/ravimedar/.gradle/caches/transforms-3/48df38ad036833ae904494f2dc8bcdc2/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/d24a09c96c6f61983329cfd34c571dd1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/d24a09c96c6f61983329cfd34c571dd1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/0e3811e2b38497ed9a5996aeb82d84b6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/0e3811e2b38497ed9a5996aeb82d84b6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/5a68f498382e1c857ad6fa2bff5e1561/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/5a68f498382e1c857ad6fa2bff5e1561/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/882e10283eff0d203b9446d03328ad31/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/882e10283eff0d203b9446d03328ad31/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/901c67f7cb38390d9234d5f904852849/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/901c67f7cb38390d9234d5f904852849/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/cee5c04d903c17205d9c3821a06e5446/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/cee5c04d903c17205d9c3821a06e5446/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/0cefd1ea0e4013bf7a3db67062b5ff8e/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/0cefd1ea0e4013bf7a3db67062b5ff8e/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ravimedar/Downloads/WeatherApp/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/06d7c478cfce76d4cbb5ba71e74c724e/transformed/play-services-base-17.3.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/4a33bd9f5d20889fb14dff6a78d9b2d4/transformed/play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/4a33bd9f5d20889fb14dff6a78d9b2d4/transformed/play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/ravimedar/.gradle/caches/transforms-3/4a33bd9f5d20889fb14dff6a78d9b2d4/transformed/play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/2d24bdbbd73cf756b7cd8801a9450c0e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/ravimedar/.gradle/caches/transforms-3/2d24bdbbd73cf756b7cd8801a9450c0e/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/ravimedar/.gradle/caches/transforms-3/502cc7709f1bbf6fb01d340e3f7b0cb2/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/ravimedar/.gradle/caches/transforms-3/bc3d45aaf4e28a3251b22b46ab1f89a6/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.ravi.weatherapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.ravi.weatherapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/ravimedar/.gradle/caches/transforms-3/63317bad34d0196f7bab845e1604f80a/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/ravimedar/.gradle/caches/transforms-3/59f801d17e601e89613ac05bf81c39bc/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/ravimedar/.gradle/caches/transforms-3/dc30ae03ec3d686eaaafb27e1b6b8613/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

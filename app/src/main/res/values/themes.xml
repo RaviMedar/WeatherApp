@@ -16,7 +16,6 @@
     </style>
 
 
-
     <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp">
 
         <!-- Optional: set to transparent if your app is drawing behind the status bar. -->

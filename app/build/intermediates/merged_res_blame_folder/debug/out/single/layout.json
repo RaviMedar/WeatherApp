@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/fragment_first.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/fragment_weather.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/fragment_weather.xml"
+    },
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/fragment_second.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/search_item_view.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/search_item_view.xml"
+    },
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/content_weather.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/content_weather.xml"
+    },
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/fragment_search.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/activity_weather.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/activity_weather.xml"
+    },
+    {
+        "merged": "com.ravi.weatherapp-mergeDebugResources-51:/layout/dialog_layout.xml",
+        "source": "com.ravi.weatherapp-main-54:/layout/dialog_layout.xml"
+    }
+]

@@ -8,7 +8,7 @@
         <import type="android.view.View"/>
         <variable
             name="viewModel"
-            type="lol.kiyarash.weatherapp.viewModel.WeatherViewModel" />
+            type="com.ravi.weatherapp.viewModel.WeatherViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
