@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.EditText
+import androidx.annotation.VisibleForTesting
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import com.ravi.weatherapp.R
@@ -17,12 +18,15 @@ import com.ravi.weatherapp.viewModel.WeatherViewModel
 
 class WeatherFragment : Fragment() {
 
-    private var _binding: FragmentWeatherBinding? = null
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
+    var _binding: FragmentWeatherBinding? = null
     private val binding get() = _binding!!
 
-    private val viewModel: WeatherViewModel by activityViewModels()
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
+    val viewModel: WeatherViewModel by activityViewModels()
 
-    private var myCity: String? = null
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
+    var myCity: String? = null
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -75,8 +79,8 @@ class WeatherFragment : Fragment() {
     }
 
 
-
-    private fun showSearchDialog() {
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
+    fun showSearchDialog() {
         // Inflate the dialog layout
         val dialogView = layoutInflater.inflate(R.layout.dialog_layout, null)
         val editTextSearch = dialogView.findViewById<EditText>(R.id.editTextSearch)
@@ -107,7 +111,8 @@ class WeatherFragment : Fragment() {
         dialog.show() // Show the dialog
     }
 
-    private fun performSearch(searchTerm: String) {
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
+    fun performSearch(searchTerm: String) {
        if (searchTerm.isNotEmpty()){
            myCity = searchTerm
            myCity?.let { viewModel.getWeatherData(it) }
