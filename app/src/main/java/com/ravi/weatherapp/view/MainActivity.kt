@@ -9,6 +9,7 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Button
 import android.widget.Toast
+import androidx.annotation.VisibleForTesting
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import com.google.android.gms.location.FusedLocationProviderClient
@@ -21,7 +22,8 @@ import java.util.Locale
 class MainActivity : AppCompatActivity() {
 
 
-    private lateinit var fusedLocationClient: FusedLocationProviderClient
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
+    lateinit var fusedLocationClient: FusedLocationProviderClient
     private val LOCATION_PERMISSION_REQUEST_CODE = 1
     private  var city: String? = null
 
@@ -89,6 +91,23 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun getCurrentLocation() {
+        if (ActivityCompat.checkSelfPermission(
+                this,
+                Manifest.permission.ACCESS_FINE_LOCATION
+            ) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(
+                this,
+                Manifest.permission.ACCESS_COARSE_LOCATION
+            ) != PackageManager.PERMISSION_GRANTED
+        ) {
+            // TODO: Consider calling
+            //    ActivityCompat#requestPermissions
+            // here to request the missing permissions, and then overriding
+            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+            //                                          int[] grantResults)
+            // to handle the case where the user grants the permission. See the documentation
+            // for ActivityCompat#requestPermissions for more details.
+            return
+        }
         fusedLocationClient.lastLocation
             .addOnSuccessListener { location: Location? ->
                 if (location != null) {
@@ -108,7 +127,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     // Reverse Geocoding to get City Name
-    private fun getCityName(latitude: Double, longitude: Double) {
+    @VisibleForTesting(otherwise = VisibleForTesting.PRIVATE)
+    fun getCityName(latitude: Double, longitude: Double) {
         val geocoder = Geocoder(this, Locale.getDefault())
         try {
             val addresses: List<Address>? = geocoder.getFromLocation(latitude, longitude, 1)
